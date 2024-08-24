@@ -1,0 +1,47 @@
+.mentor-booking-page-container {
+}
+.mentor-details-container {
+}
+.mb-mentor-card-container {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 31%;
+  padding: 1rem;
+  margin: 1rem;
+}
+.mb-mentor-image {
+  width: 160px;
+  border-radius: 50%;
+}
+.mb-mentor-content-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 4rem;
+}
+.mb-mentor-content-container p {
+  /* border: 1px solid lightgray; */
+  padding: 2px 8px;
+}
+.mb-book-now-button {
+  width: 100%;
+}
+.mb-expertise-name {
+  margin-left: 4rem;
+  padding: 0;
+}
+.mb-booking-form-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 4rem;
+}
+.mb-booking-form {
+  width: 60vh;
+}
+.mb-durations-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

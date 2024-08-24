@@ -1,0 +1,50 @@
+// student login
+// {
+//   "email": "venkatesh@gmail.com",
+//   "password": "venkatesh"
+// }
+
+
+// booking mentor
+// {
+//   "mentorId": "66c79a6db4a27df96c441163",
+//   "mentorName": "yuvraj singh",
+//   "studentName": "venkatesh",
+//   "date": "27-08-2024",
+//   "from": "9:00 PM",
+//   "to": "9:45 PM",
+//   "duration": "30 mins",
+//   "areaOfInterest": "FMCG sales"
+// }
+
+// name, email, password, rating, from, to, areaOfInterests (mentor registration)
+{
+  "name": "raj kuman",
+  "email": "raj@gmail.com",
+  "password": "raj",
+  "experience": "2",
+  "designation": "Business Lead",
+  "from": "7:00 PM",
+  "to": "10:00 PM",
+  "rating": "4.2",
+  "areaOfInterests": ["Digital Marketing", "Equity Research", "Business development"]
+}
+
+// booking mentor
+// {
+//   "mentorId": "66c7189386c23df141763447",
+//   "mentorName": "ganesh",
+//   "studentName": "vikram",
+//   "date": "25-08-2024",
+//   "from": "8:00 PM",
+//   "to": "8:00 PM",
+//   "duration": "30 mins",
+//   "areaOfInterest": "FMCG sales"
+// }
+
+// student login
+// {
+//   "name": "vikram",
+//   "email": "vikram@gmail.com",
+//   "password": "vikram"
+// }
